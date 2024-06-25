@@ -3,13 +3,19 @@
 This project is a user registration form developed as part of my Bharat Internship program. It encompasses the entire stack from frontend design to backend integration and database management.
 
 **Features**
+
 **User-Friendly Interface**: Designed with HTML and CSS to ensure a clean and responsive user experience.
+
 **Backend Server**: Implemented with Node.js to handle incoming user data and manage registration processes.
+
 **Database Management**: Utilized MongoDB to securely store user information and handle data operations.
+
 **Error Handling**: Comprehensive error logging and user feedback to ensure smooth registration.
+
 **Success Notifications**: Popup messages to notify users of successful registration.
 
 **Tech Stack**
+
 Frontend: HTML, CSS
 Backend: Node.js, Express.js
 Database: MongoDB
