@@ -1,42 +1,22 @@
 # BHARAT-INTERN
-# TASK - 1 : REGISTRATION FORM
-This project is a user registration form developed as part of my Bharat Internship program. It encompasses the entire stack from frontend design to backend integration and database management.
+# TASK 1
+**Registration Form**
 
-**Features**
+Develop a registration form to sign up and store user information using HTML, CSS, Node.js in MongoDB.
 
-User-Friendly Interface: Designed with HTML and CSS to ensure a clean and responsive user experience.
+Objective : This project is a user registration form that encompasses the entire stack from frontend design to backend integration and database management.
 
-Backend Server: Implemented with Node.js to handle incoming user data and manage registration processes.
+# TASK 2
+**Blog Website**
 
-Database Management: Utilized MongoDB to securely store user information and handle data operations.
+Create a blog website for reading and writing posts using HTML, CSS, Node.js and MongoDB for data storage.
 
-Error Handling: Comprehensive error logging and user feedback to ensure smooth registration.
+Objective : The website allows users to read and write blog posts with a clean and responsive interface.
 
-Success Notifications: Popup messages to notify users of successful registration.
+.
+# TASK 3
+**Money Tracker WebApp**
 
-**Tech Stack**
+Build a money tracker app for managing expenses and income using HTML, CSS, Node.js, and MongoDB
 
-Frontend: HTML, CSS
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-**Installation**
-
-Clone the repository: git clone https://github.com/yourusername/registration-form-project.git
-
-Navigate to the project directory: cd registration-form-project
-
-Install dependencies: npm install
-
-Start the server: node server/server.js
-
-Open your browser and navigate to: http://localhost:3000
-
-**Usage**
-
-Fill out the registration form with your details.
-Click the "Register" button.
-A popup message will confirm successful registration.
-Errors during registration will be logged, and an error message will be displayed.
+Objective : This Money Tracker WebApp is a full-stack application built to manage expenses and income efficiently. The application leverages HTML, CSS, Node.js, and MongoDB to provide a seamless experience for tracking financial transactions.
