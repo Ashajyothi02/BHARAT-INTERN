@@ -20,3 +20,12 @@ Objective : The website allows users to read and write blog posts with a clean a
 Build a money tracker app for managing expenses and income using HTML, CSS, Node.js, and MongoDB
 
 Objective : This Money Tracker WebApp is a full-stack application built to manage expenses and income efficiently. The application leverages HTML, CSS, Node.js, and MongoDB to provide a seamless experience for tracking financial transactions.
+
+**License**
+
+This project is licensed under the MIT License.
+
+**Acknowledgements**
+
+Thank you to the Bharat Internship program for this learning opportunity.
+
