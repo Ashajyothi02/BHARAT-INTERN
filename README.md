@@ -17,22 +17,25 @@ This project is a user registration form developed as part of my Bharat Internsh
 **Tech Stack**
 
 Frontend: HTML, CSS
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
 
 **Installation**
-Clone the repository:
-git clone https://github.com/yourusername/registration-form-project.git
-Navigate to the project directory:
-cd registration-form-project
-Install dependencies:
-npm install
-Start the server:
-node server/server.js
-Open your browser and navigate to:
-http://localhost:3000
+
+Clone the repository: git clone https://github.com/yourusername/registration-form-project.git
+
+Navigate to the project directory: cd registration-form-project
+
+Install dependencies: npm install
+
+Start the server: node server/server.js
+
+Open your browser and navigate to: http://localhost:3000
 
 **Usage**
+
 Fill out the registration form with your details.
 Click the "Register" button.
 A popup message will confirm successful registration.
